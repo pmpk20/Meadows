@@ -291,7 +291,7 @@ ggsave(
         "PollinatorQualityMedium" = "red",
         "PollinatorQualityHigh" = "darkred"
       )
-    ) + ggtitle("WTP By Attribute and Treatment.") + ylab("Mean Attribute WTP in £py") +
+    ) + ggtitle("WTP By Attribute and Treatment.") + ylab("Mean Attribute WTP in Â£py") +
     theme(legend.position = "bottom") +
     guides(fill=guide_legend(nrow=3,byrow=TRUE))+coord_flip(),
   device = "jpeg",
