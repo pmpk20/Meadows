@@ -7,15 +7,15 @@ type: software
 authors:
   - family-names: King
     given-names: Peter
-    affiliation: "Sustainability Research Institute, University of Leeds"
+    affiliation: "Institute for Transport Studies, University of Leeds"
     email: p.king1@leeds.ac.uk
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # TODO: add or delete
+    orcid: "https://orcid.org/0000-0001-8550-466X"
   - family-names: Pett
     given-names: "Tristan J."
     affiliation: "Durrell Institute of Conservation and Ecology, University of Kent"
   - family-names: Goddard
     given-names: "Mark A."
-    affiliation: "Department of Geography and Environmental Sciences, Northumbria University"
+    affiliation: "School of Geography and Natural Sciences, Northumbria University"
   - family-names: Lundhede
     given-names: "Thomas H."
     affiliation: "Department of Food and Resource Economics, University of Copenhagen"
@@ -31,11 +31,7 @@ authors:
 repository-code: "https://github.com/pmpk20/Meadows"
 license: MIT  # code; see README "Licence" for the data licence
 version: "1.0.0"
-date-released: 2026-XX-XX  # TODO: set when the Zenodo release is made
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.XXXXXXX"  # TODO: Zenodo concept DOI for this repository
-    description: "Archived release of this repository (Zenodo)"
+date-released: 2026-10-14
 keywords:
   - choice experiments
   - willingness-to-pay
@@ -62,5 +58,4 @@ preferred-citation:
   title: "Understanding public preferences for urban wildflower meadows"
   journal: "Journal of Environmental Management"
   year: 2026
-  doi: "10.1016/j.jenvman.2026.XXXXXX"  # TODO: article DOI from the proofs
-  notes: "Accepted manuscript JEMA-D-26-20245; Special Issue 'Informing Environmental Management through Landscape Perception'"
+  doi: "10.1016/j.jenvman.2026.131156"
