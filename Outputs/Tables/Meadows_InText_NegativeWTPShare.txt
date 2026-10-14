@@ -1,0 +1,5 @@
+Model,Level,Mean,SD,ShareNegative
+Weighted,PollinatorQualityMedium,14.62,19.924,0.232
+Weighted,PollinatorQualityHigh,29.222,39.493,0.23
+Unweighted,PollinatorQualityMedium,16.187,25.312,0.261
+Unweighted,PollinatorQualityHigh,32.078,28.361,0.129

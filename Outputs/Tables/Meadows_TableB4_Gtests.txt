@@ -1,0 +1,47 @@
+Variable#Category#Control#Annual#Perennial
+city#Bristol#53 (33.76%) #50 (32.05%) #26 (16.15%) 
+city#Edinburgh#73 (46.50%) #28 (17.95%) #76 (47.20%) 
+city#Leeds#31 (19.75%) #78 (50.00%) #59 (36.65%) 
+AgeLevel#18 – 24#13 (8.28%) #17 (10.90%) #15 (9.32%) 
+AgeLevel#25 – 34#41 (26.11%) #32 (20.51%) #35 (21.74%) 
+AgeLevel#35 – 44#34 (21.66%) #32 (20.51%) #30 (18.63%) 
+AgeLevel#45 – 54#31 (19.75%) #27 (17.31%) #32 (19.88%) 
+AgeLevel#55 – 64#18 (11.46%) #28 (17.95%) #24 (14.91%) 
+AgeLevel#65 and over#20 (12.74%) #20 (12.82%) #25 (15.53%) 
+AgeLevel#0#0#0.124 #0.466 
+AgeLevel#Pre-balancing#0#-0.04#0.06
+AgeLevel#Post-balancing#0#<0.01#<0.01
+Education#None#4 (2.55%) #8 (5.13%) #13 (8.07%) 
+Education#1 - 4 O Levels or equivalent#6 (3.82%) #15 (9.62%) #8 (4.97%) 
+Education#5 + O Levels/CSEs/GCSEs or equivalent#15 (9.55%) #13 (8.33%) #24 (14.91%) 
+Education#2 + A Levels or equivalent#23 (14.65%) #27 (17.31%) #19 (11.80%) 
+Education#Degree, Higher Degree, NVQ level 4-5, BTEC Higher Level, professional qualifications#103 (65.61%) #85 (54.49%) #92 (57.14%) 
+Education#Other qualifications#6 (3.82%) #8 (5.13%) #5 (3.11%) 
+Education#0#0#0.004 ***#0.001 ***
+Education#Pre-balancing#0#0.22#-0.28
+Education#Post-balancing#0#<0.01#<0.01
+Employment#Employed#110 (70.06%) #101 (64.74%) #112 (69.57%) 
+Employment#Unemployed, but looking for work#5 (3.18%) #9 (5.77%) #8 (4.97%) 
+Employment#Not working#8 (5.10%) #8 (5.13%) #8 (4.97%) 
+Employment#Retired#24 (15.29%) #33 (21.15%) #29 (18.01%) 
+Employment#Student#10 (6.37%) #5 (3.21%) #4 (2.48%) 
+Employment#0#0#0.051 *#0.131 
+Employment#Pre-balancing#0#-0.06#-0.04
+Employment#Post-balancing#0#<0.01#<0.01
+Gender#Female#85 (54.14%) #90 (57.69%) #82 (50.93%) 
+Gender#Male#72 (45.86%) #66 (42.31%) #79 (49.07%) 
+Gender#0#0#0.372 #0.415 
+Gender#Pre-balancing#0#0.04#0.03
+Gender#Post-balancing#0#<0.01#<0.01
+Income#Up to £5,199#8 (5.10%) #6 (3.85%) #8 (4.97%) 
+Income#£5,200 – 10,399#16 (10.19%) #8 (5.13%) #10 (6.21%) 
+Income#£10,400 – £15,599#14 (8.92%) #17 (10.90%) #16 (9.94%) 
+Income#£16,000 - £20,779#16 (10.19%) #17 (10.90%) #19 (11.80%) 
+Income#£20,800 - £25,999#18 (11.46%) #10 (6.41%) #19 (11.80%) 
+Income#£26,000 - £31,199#22 (14.01%) #16 (10.26%) #29 (18.01%) 
+Income#£31,200 - £36,399#16 (10.19%) #20 (12.82%) #16 (9.94%) 
+Income#£36,400 - £51,999#24 (15.29%) #28 (17.95%) #21 (13.04%) 
+Income#£52,000 and above#23 (14.65%) #34 (21.79%) #23 (14.29%) 
+Income#0#0#0.019 **#0.673 
+Income#Pre-balancing#0#-0.23#0.01
+Income#Post-balancing#0#<0.01#<0.01

@@ -1,0 +1,54 @@
+# R / RStudio session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Local tool settings and working notes (never publish)
+.claude/
+docs/
+REPO_AUDIT*.md
+audit/
+
+# Manuscript drafts, reviews and correspondence (never publish)
+Papers/
+
+# Raw / intermediate data kept locally only. The raw exports contain paper-questionnaire
+# serial numbers and must not be published; the public data are the two Data/*.csv files.
+Data/*.xls
+Data/*.xlsx
+Data/*.lim
+Data/*.lpj
+Data/database_Meadows.csv
+Data/database_Meadows_20*.csv
+Data/database_Meadows_Trimmed_*.csv
+Data/Figure2_WTPDistributions_PlotData.csv
+
+# Local archives, slide decks and scratch files
+*.zip
+*.pptx
+check.txt
+ExampleChoiceCard.pdf
+
+# Rendered README copy - GitHub renders README.md natively, so this only goes stale
+README.html
+
+# Archived/legacy scripts and outputs, kept locally for reference only
+OldScripts/
+OldOutputs/
+Outputs/Old/
+Outputs/**/*_New.*
+
+# Model outputs: everything is local except the four final model objects and estimates,
+# which are shipped so replicators can skip the ~35 min (40-core) estimation per model.
+# The .rds files contain estimates and covariance matrices only, no respondent-level data.
+ModelOutputs/*
+!ModelOutputs/Meadows_Pooled_Weighted_ParkFEs_V1_model.rds
+!ModelOutputs/Meadows_Pooled_Weighted_ParkFEs_V1_estimates.csv
+!ModelOutputs/Meadows_Pooled_Unweighted_ParkFEs_V1_model.rds
+!ModelOutputs/Meadows_Pooled_Unweighted_ParkFEs_V1_estimates.csv
+!ModelOutputs/Meadows_Pooled_Weighted_GroupedType_ParkFEs_V1_model.rds
+!ModelOutputs/Meadows_Pooled_Weighted_GroupedType_ParkFEs_V1_estimates.csv
+!ModelOutputs/Meadows_Pooled_Unweighted_GroupedType_ParkFEs_V1_model.rds
+!ModelOutputs/Meadows_Pooled_Unweighted_GroupedType_ParkFEs_V1_estimates.csv

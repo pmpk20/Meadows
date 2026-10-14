@@ -1,0 +1,11 @@
+Variable,Metric,Annual.vs.Control,Perennial.vs.Control
+Age,Pre-balancing mean difference,-0.04,0.06
+Age,Post-balancing mean difference,<0.01,<0.01
+Education,Pre-balancing mean difference,0.22,-0.28
+Education,Post-balancing mean difference,<0.01,<0.01
+Employment,Pre-balancing mean difference,-0.06,-0.04
+Employment,Post-balancing mean difference,<0.01,<0.01
+Gender,Pre-balancing mean difference,0.04,0.03
+Gender,Post-balancing mean difference,<0.01,<0.01
+Income,Pre-balancing mean difference,-0.23,0.01
+Income,Post-balancing mean difference,<0.01,<0.01

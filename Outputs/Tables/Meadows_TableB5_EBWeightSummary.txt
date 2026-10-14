@@ -1,0 +1,23 @@
+Variable,Measure,Control,Annual,Perennial
+Effective sample size,N. participants unadjusted,157,156,161
+Effective sample size,N. participants adjusted,148,149,156
+Age group,Mean,0.44,0.48,0.5
+Age group,Variance,0.25,0.25,0.25
+Age group,Pre-balancing difference vs control,"",-0.04,0.06
+Age group,Post-balancing difference vs control,"",<0.00,<0.00
+Education,Mean,4.48,4.22,4.14
+Education,Variance,1.06,1.64,1.76
+Education,Pre-balancing difference vs control,"",0.22,-0.28
+Education,Post-balancing difference vs control,"",<0.00,<0.00
+Employment,Mean,1.85,1.92,1.79
+Employment,Variance,1.93,1.84,1.66
+Employment,Pre-balancing difference vs control,"",-0.06,-0.04
+Employment,Post-balancing difference vs control,"",<0.00,<0.00
+Gender,Mean,0.46,0.42,0.49
+Gender,Variance,0.25,0.25,0.25
+Gender,Pre-balancing difference vs control,"",0.04,0.03
+Gender,Post-balancing difference vs control,"",<0.00,<0.00
+Income,Mean,"£25,560.15","£29,058.35","£25,731.81"
+Income,Variance,227720112.9,245996883.83,209147592.83
+Income,Pre-balancing difference vs control,"",-0.23,0.01
+Income,Post-balancing difference vs control,"",<0.00,<0.00

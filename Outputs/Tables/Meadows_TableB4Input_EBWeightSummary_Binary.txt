@@ -1,0 +1,11 @@
+Variable,Metric,Control.vs.Other
+Age,Pre-balancing mean difference,0.05
+Age,Post-balancing mean difference,<0.01
+Education,Pre-balancing mean difference,-0.26
+Education,Post-balancing mean difference,<0.01
+Employment,Pre-balancing mean difference,0.01
+Employment,Post-balancing mean difference,<0.01
+Gender,Pre-balancing mean difference,0
+Gender,Post-balancing mean difference,<0.01
+Income,Pre-balancing mean difference,0.12
+Income,Post-balancing mean difference,<0.01

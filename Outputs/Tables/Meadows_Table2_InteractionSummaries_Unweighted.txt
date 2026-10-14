@@ -1,0 +1,10 @@
+,attribute,Annual,Perennial
+1,Appearance_W,6.923 (9.886),4.785 (9.705)
+2,Appearance_WYB,5.931 (9.988),-2.280 (9.732)
+3,Appearance_WYBPR,9.981 (8.778),-5.317 (8.614)
+4,Native_Decrease,2.344 (8.063),-1.181 (7.880)
+5,Native_Increase,-8.026 (6.246),-4.463 (6.091)
+6,Plants_5,10.872 (7.162),7.628 (6.933)
+7,Plants_10,10.408 (6.832),10.771 (6.577)
+8,PollinatorQuality_Medium,5.763 (7.993),18.020** (7.939)
+9,PollinatorQuality_High,3.793 (8.388),16.151* (8.344)

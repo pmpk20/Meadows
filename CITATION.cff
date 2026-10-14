@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or data, please cite the article below (preferred) and the
+  archived release of this repository.
+title: "Understanding public preferences for urban wildflower meadows: data and replication code"
+type: software
+authors:
+  - family-names: King
+    given-names: Peter
+    affiliation: "Sustainability Research Institute, University of Leeds"
+    email: p.king1@leeds.ac.uk
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # TODO: add or delete
+  - family-names: Pett
+    given-names: "Tristan J."
+    affiliation: "Durrell Institute of Conservation and Ecology, University of Kent"
+  - family-names: Goddard
+    given-names: "Mark A."
+    affiliation: "Department of Geography and Environmental Sciences, Northumbria University"
+  - family-names: Lundhede
+    given-names: "Thomas H."
+    affiliation: "Department of Food and Resource Economics, University of Copenhagen"
+  - family-names: Austen
+    given-names: "Gail E."
+    affiliation: "Durrell Institute of Conservation and Ecology, University of Kent"
+  - family-names: Davies
+    given-names: "Zoe G."
+    affiliation: "Durrell Institute of Conservation and Ecology, University of Kent"
+  - family-names: Dallimer
+    given-names: Martin
+    affiliation: "Centre for Environmental Policy, Imperial College London"
+repository-code: "https://github.com/pmpk20/Meadows"
+license: MIT  # code; see README "Licence" for the data licence
+version: "1.0.0"
+date-released: 2026-XX-XX  # TODO: set when the Zenodo release is made
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"  # TODO: Zenodo concept DOI for this repository
+    description: "Archived release of this repository (Zenodo)"
+keywords:
+  - choice experiments
+  - willingness-to-pay
+  - urban meadows
+  - nature-based solutions
+  - hypothetical bias
+preferred-citation:
+  type: article
+  authors:
+    - family-names: King
+      given-names: Peter
+    - family-names: Pett
+      given-names: "Tristan J."
+    - family-names: Goddard
+      given-names: "Mark A."
+    - family-names: Lundhede
+      given-names: "Thomas H."
+    - family-names: Austen
+      given-names: "Gail E."
+    - family-names: Davies
+      given-names: "Zoe G."
+    - family-names: Dallimer
+      given-names: Martin
+  title: "Understanding public preferences for urban wildflower meadows"
+  journal: "Journal of Environmental Management"
+  year: 2026
+  doi: "10.1016/j.jenvman.2026.XXXXXX"  # TODO: article DOI from the proofs
+  notes: "Accepted manuscript JEMA-D-26-20245; Special Issue 'Informing Environmental Management through Landscape Perception'"

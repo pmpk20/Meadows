@@ -1,0 +1,10 @@
+Attribute#Control#Annual#Perennial#Control vs Annual#Control vs Perennial#Annual vs Perennial
+Flower colours: white#£35.93#£42.57#£40.46#0.278#0.345#0.431
+Flower colours: white, yellow, blue#£50.77#£56.78#£48.60#0.324#0.567#0.268
+Flower colours: white, yellow, blue, pink, red#£41.24#£50.95#£35.45#0.165#0.723#0.061*
+Native: decrease#£-26.35#£-24.10#£-27.55#0.407#0.552#0.357
+Native: increase#£17.58#£9.41#£13.09#0.901#0.765#0.722
+Plants: five additional species#£6.33#£17.18#£13.94#0.066*#0.141#0.327
+Plants: ten additional species#£4.70#£15.09#£15.48#0.065*#0.055*#0.521
+Quality for pollinating insects: medium#£16.45#£21.73#£34.17#0.272#0.023**#0.920
+Quality for pollinating insects: high#£32.14#£36.09#£47.97#0.330#0.042**#0.899

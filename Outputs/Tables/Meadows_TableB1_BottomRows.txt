@@ -1,0 +1,9 @@
+Variable#Bristol#Edinburgh#Leeds
+Control#53 (33.76%)#73 (46.50%)#31 (19.75%)
+Perennial#26 (16.15%)#76 (47.20%)#59 (36.65%)
+Annual#50 (32.05%)#28 (17.95%)#78 (50.00%)
+Annual vs Control (p)#0.000***##
+Perennial vs Control (p)#0.000***##
+Annual meadows#Gores Marsh Park, St. Andrews#Inch Park#King Lane, Middleton Park, Rodley Park
+Control sites#Horfield Common, St. Andrews#Inch Park, Pilrig#Burley Park, Middleton Park
+Perennial meadows#Horfield Common#Pilrig, St. Marks#Burley Park, Stanhope Recreation ground
