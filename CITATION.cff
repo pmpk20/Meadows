@@ -32,6 +32,10 @@ repository-code: "https://github.com/pmpk20/Meadows"
 license: MIT  # code; see README "Licence" for the data licence
 version: "1.0.0"
 date-released: 2026-10-14
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23374960"
+    description: "Concept DOI for all archived versions of this repository (Zenodo)"
 keywords:
   - choice experiments
   - willingness-to-pay

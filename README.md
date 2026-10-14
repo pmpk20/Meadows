@@ -1,7 +1,6 @@
 # Understanding Public Preferences for Urban Wildflower Meadows: supporting dataset
 
-<!-- TODO: replace the Zenodo DOI placeholders once the first release is archived -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1419431219.svg)](https://doi.org/10.5281/zenodo.23374960)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8550--466X-A6CE39?logo=orcid)](https://orcid.org/0000-0001-8550-466X)
 [![GitHub release](https://img.shields.io/github/v/release/pmpk20/Meadows)](https://github.com/pmpk20/Meadows/releases)
@@ -30,7 +29,7 @@
 -   `/Outputs/`: all tables and figures in the manuscript and supplementary material.
 -   `Meadows_FullSurveyPrintUpdated.pdf` is the full questionnaire (block 1), reproduced from Pett (2018, Appendix 2).
 -   Run `00_Meadows_Replication.R` to execute all replication scripts in order. Scripts are numbered 01--25 by execution sequence.
--   Data are publicly available in this repository. Zenodo DOI: [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+-   Data are publicly available in this repository. Zenodo DOI: [https://doi.org/10.5281/zenodo.23374960](https://doi.org/10.5281/zenodo.23374960)
 
 #### Requirements and quick start:
 - R version 4.4 or later. The shipped outputs were reproduced exactly with R 4.5.0 and: apollo (0.3.9), WeightIt (2.0.0), cobalt (5.0.0), MatchIt (4.7.2), data.table (1.18.6.1), tidyverse (2.0.0), ggplot2 (4.0.3), ggdist (3.3.3), mded (0.1.2), mvtnorm (1.4.2), here (1.0.2), janitor (2.2.1), rstatix (1.1.0).
